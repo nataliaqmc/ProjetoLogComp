@@ -1,0 +1,30 @@
+# Test File
+
+# Variable Declaration and Assignment
+int x = 10;
+double y = 5.5;
+
+# Function Declaration
+int add(int a, int b) {
+    return a + b;
+}
+
+# Function Call
+int result = add(x, 20);
+
+# Print Statement
+print(result);
+
+# If Statement
+if (result > 15) {
+    print("Result is greater than 15");
+} else {
+    print("Result is not greater than 15");
+}
+
+# While Loop
+int i = 0;
+while (i < 5) {
+    print(i);
+    i = i + 1;
+}
