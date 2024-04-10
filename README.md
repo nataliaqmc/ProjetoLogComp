@@ -1,5 +1,6 @@
 # Projeto Lógica da Computação:
 #### Feito por: Natália Queiroz Menezes Carreras
+#### [Apresentação do Projeto - PowerPoint](Apresentação.pdf)
 ## Introdução:
 ### Objetivos:
   1. Criar uma Linguagem de Programação.
