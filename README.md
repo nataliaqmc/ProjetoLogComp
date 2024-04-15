@@ -1,4 +1,4 @@
-# Projeto Lógica da Computação:
+# APS - Lógica da Computação:
 #### Feito por: Natália Queiroz Menezes Carreras
 #### [Apresentação do Projeto - PowerPoint](Apresentação.pdf)
 ## Introdução:
